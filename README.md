@@ -1,6 +1,5 @@
 # hello there!
-i'm paritojr, a web dev. i like programming in HTML, CSS and JavaScript,
-sometimes, when i make programs, i share their code on Github.
-see ya!
+i'm paritojr, a web dev. i like programming in HTML and JS (not you CSS)
+see ya :)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=hello+there!)](https://git.io/typing-svg)
+[![oh look at dis](https://readme-typing-svg.herokuapp.com?size=30&lines=hello+there!)](https://git.io/typing-svg)
