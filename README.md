@@ -5,7 +5,7 @@ some of my projects:
 * [creativejr](https://github.com/paritojr/creativejr), a browser based creative tool suite
 * [doggo the helper](https://github.com/paritojr/doggo-the-helper), a discord bot, useful for anything
 <br>
-check out my blog: http://blog.paritojr.co
+check out my blog: https://blog.paritojr.co
 <br>
 join my discord server: https://discord.gg/CUf5kVJZ7p
 <br>
